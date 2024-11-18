@@ -1,6 +1,6 @@
 baseURL = 'https://reese9997.github.io/'
 languageCode = 'zh-tw'
-title = '林巧翎的個人檔案'
+title = '東海大學'
 theme = 'ananke'
 
 [params.ananke.social.share]
@@ -23,7 +23,7 @@ username = "cllin_1019"
 [params] 
 text_color = "bg-navy" # 設置文字顏色 
 author = "林巧翎" # 設置作者名稱
-featured_image = "thu.jpg"
+featured_image = "/images/logo.png"
 featured_image_class = "cover bg-top"
 
 
