@@ -1,4 +1,6 @@
 baseURL = 'https://reese9997.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '林巧翎的個人檔案'
 theme = 'ananke'
+hugo new posts/my-first-post.md
+
