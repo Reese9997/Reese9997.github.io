@@ -1,6 +1,5 @@
 baseURL = 'https://reese9997.github.io/'
-languageCode = 'en-us'
+languageCode = 'zh-tw'
 title = '林巧翎的個人檔案'
 theme = 'ananke'
-hugo new posts/my-first-post.md
 
