@@ -11,3 +11,7 @@ description = "這是林巧翎的個人網站。"
 networks = [ { name = "email", url = "mailto:g12490002@go.thu.edu.tw" }, 
 { name = "facebook", url = "https://www.facebook.com/profile.php?id=100001328394686" },  
 { name = "linkedin", url = "https://www.linkedin.com/in/stephanie-undefined-48b5b72b7/" } ]
+
+
+hugo new posts/my-first-post.md
+hugo server -D
