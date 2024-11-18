@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+baseURL: "https://reese9997.github.io/"
 languageCode: zh-tw
 title: 林巧翎的個人檔案
 
@@ -20,6 +20,10 @@ markup:
       unsafe: true # Allows you to write raw html in your md files
 
 params:
+networks = [ { name = "email", url = "mailto:g12490002@go.thu.edu.tw" }, 
+{ name = "facebook", url = "https://www.facebook.com/profile.php?id=100001328394686" },  
+{ name = "linkedin", url = "https://www.linkedin.com/in/stephanie-undefined-48b5b72b7/" } ]
+
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
