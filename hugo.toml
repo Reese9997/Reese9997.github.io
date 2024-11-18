@@ -21,11 +21,9 @@ profilelink = "https://www.linkedin.com/in/stephanie-undefined-48b5b72b7/"
 username = "cllin_1019"
 
 
-title: Contact
-featured_image: '/images/thu.jpg'
-omit_header_text: true
-description: We'd love to hear from you
-type: page
-menu: main
+featured_image = '/images/thu.jpg'
+omit_header_text =  true
+type = page
+menu = main
 
 
