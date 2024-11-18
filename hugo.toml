@@ -2,3 +2,5 @@ baseURL = 'https://reese9997.github.io/'
 languageCode = 'zh-tw'
 title = '林巧翎的個人檔案'
 theme = 'ananke'
+
+{{< form-contact action="https://Reese9997.github.io/g12490002@go.thu.edu.tw" >}}
