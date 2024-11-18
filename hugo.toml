@@ -1,7 +1,6 @@
 baseURL = 'https://reese9997.github.io/'
 languageCode = 'zh-tw'
 title = '東海大學'
-site_logo = 'logo2.png'
 theme = 'ananke'
 
 [params.ananke.social.share]
@@ -21,8 +20,8 @@ profilelink = "https://www.linkedin.com/in/stephanie-undefined-48b5b72b7/"
 [params.ananke.social.instagram]
 username = "cllin_1019"
 
-[params] 
-author = "林巧翎" # 設置作者名稱
+[params]
+site_logo = "images/logo2.png"
 
 
 
