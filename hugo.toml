@@ -23,7 +23,5 @@ username = "cllin_1019"
 
 featured_image = '/images/thu.jpg'
 omit_header_text =  true
-type = page
-menu = main
 
 
