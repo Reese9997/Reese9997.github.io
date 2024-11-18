@@ -11,7 +11,7 @@ networks = ["facebook","linkedin"]
 
 [params.ananke.social.facebook]
 username = "林巧翎"
-# profilelink = "https://www.facebook.com/share/17dynABG4m/?mibextid=LQQJ4d"
+profilelink = "https://www.facebook.com/share/17dynABG4m/?mibextid=LQQJ4d"
 
 [params.ananke.social.linkedin]
 username = "林巧翎"
