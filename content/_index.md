@@ -6,5 +6,4 @@ description: "“Always do your best. What you plant now, you will harvest later
 theme_version: '2.8.2'
 cascade:
   featured_image: 'thu.jpg'
-  site_logo : 'logo.png'
 ---
