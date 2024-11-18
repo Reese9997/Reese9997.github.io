@@ -3,7 +3,6 @@ languageCode = 'zh-tw'
 title = '林巧翎的個人檔案'
 theme = 'ananke'
 
-params：
 networks = [ { name = "email", url = "mailto:g12490002@go.thu.edu.tw" }, 
 { name = "facebook", url = "https://www.facebook.com/profile.php?id=100001328394686" },  
 { name = "linkedin", url = "https://www.linkedin.com/in/stephanie-undefined-48b5b72b7/" } ]
