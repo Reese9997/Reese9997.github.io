@@ -1,6 +1,6 @@
 baseURL: http://something-fresh.org/
-languageCode: en-us
-title: Hugo Fresh Theme
+languageCode: zh-tw
+title: 林巧翎的個人檔案
 
 module:
   # uncomment line below for local development of module
