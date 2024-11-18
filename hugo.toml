@@ -20,5 +20,10 @@ profilelink = "https://www.linkedin.com/in/stephanie-undefined-48b5b72b7/"
 [params.ananke.social.instagram]
 username = "cllin_1019"
 
-featured_image = 'thu.jpg'
+[params] 
+text_color = "bg-navy" # 設置文字顏色 
+author = "林巧翎" # 設置作者名稱
+site_logo = "thu.jpg"
+
+
 
