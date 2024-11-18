@@ -23,7 +23,7 @@ username = "cllin_1019"
 [params] 
 text_color = "bg-navy" # 設置文字顏色 
 author = "林巧翎" # 設置作者名稱
-site_logo = "logo.jpg"
+site_logo = "/images/logo.jpg"
 featured_image_class = "cover bg-top"
 
 
