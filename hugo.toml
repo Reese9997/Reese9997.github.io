@@ -20,8 +20,5 @@ profilelink = "https://www.linkedin.com/in/stephanie-undefined-48b5b72b7/"
 [params.ananke.social.instagram]
 username = "cllin_1019"
 
-
-featured_image = '/images/thu.jpg'
-omit_header_text =  true
-
+featured_image = 'thu.jpg'
 
