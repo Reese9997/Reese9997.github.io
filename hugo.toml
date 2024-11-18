@@ -21,9 +21,8 @@ profilelink = "https://www.linkedin.com/in/stephanie-undefined-48b5b72b7/"
 username = "cllin_1019"
 
 [params] 
-text_color = "bg-navy" # 設置文字顏色 
 author = "林巧翎" # 設置作者名稱
-favicon = '/images/thu.jpg'
+site_logo = '/images/thu.jpg'
 
 
 
