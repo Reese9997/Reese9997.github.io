@@ -3,4 +3,15 @@ languageCode = 'zh-tw'
 title = '林巧翎的個人檔案'
 theme = 'ananke'
 
-{{< form-contact action="https://Reese9997.github.io/g12490002@go.thu.edu.tw" >}}
+[params.ananke.social.share]
+networks = ["email", "facebook", "linkedin"]
+
+[params.ananke.social.follow]
+networks = ["facebook","linkedin"]
+
+[params.ananke.social.facebook]
+username = "林巧翎"
+# profilelink = "https://www.facebook.com/share/17dynABG4m/?mibextid=LQQJ4d"
+
+[params.ananke.social.linkedin]
+username = "林巧翎"
