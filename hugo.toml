@@ -4,10 +4,10 @@ title = '林巧翎的個人檔案'
 theme = 'ananke'
 
 [params.ananke.social.share]
-networks = ["email", "facebook", "linkedin"]
+networks = ["email", "facebook", "linkedin","instagram"]
 
 [params.ananke.social.follow]
-networks = ["facebook","linkedin"]
+networks = ["facebook","linkedin","instagram"]
 
 [params.ananke.social.facebook]
 username = "林巧翎"
@@ -15,3 +15,7 @@ profilelink = "https://www.facebook.com/share/17dynABG4m/?mibextid=LQQJ4d"
 
 [params.ananke.social.linkedin]
 username = "林巧翎"
+profilelink = "https://www.linkedin.com/in/stephanie-undefined-48b5b72b7/"
+
+[params.ananke.social.instagram]
+username = "cllin_1019"
