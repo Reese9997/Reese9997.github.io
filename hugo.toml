@@ -1,6 +1,6 @@
 baseURL = 'https://reese9997.github.io/'
 languageCode = 'zh-tw'
-title = '東海大學'
+#title = '東海大學'
 theme = 'ananke'
 
 
