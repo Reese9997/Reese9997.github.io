@@ -1,8 +1,8 @@
 ---
 title: "About Me"
 description: ""
-text_color = "near-black"
-background_color_class = "bg-washed-red"
+text_color: "near-black"
+background_color_class: "bg-washed-red"
 menu:
   main:
     weight: 1
