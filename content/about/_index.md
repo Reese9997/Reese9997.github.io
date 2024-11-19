@@ -10,11 +10,7 @@ menu:
 {{< figure src="lin.jpg"  width="200" height="280">}}
 
 **姓名:** 林巧翎 (Chiao-Ling (Reese), Lin)
-
-
-<div style="text-align: left;">
-<strong>學歷:</strong><br>
-- 義守大學 │ 財務金融管理學系 │ 11106 畢業生<br>
-- 東海大學 │ 財務金融管理學系 │ 碩士在校生<br>
+**學歷:**
+- 義守大學 │ 財務金融管理學系 │ 11106 畢業生
+- 東海大學 │ 財務金融管理學系 │ 碩士在校生
 - 東海大學 │ 資訊管理學系 │ 碩士在校生
-</div>
