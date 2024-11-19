@@ -9,6 +9,7 @@ menu:
     weight: 1
 ---
 {{< figure src="lin.jpg"  width="200" height="280">}}
+{{< figure src="/content/Activity/TA.jpg"  width="200" height="280">}}
 
 ### **姓名:** 林巧翎 [Chiao-Ling (Reese), Lin]
 
