@@ -23,7 +23,7 @@ username = "cllin_1019"
 
 
 [params]
-text_color = ""
+text_color = "black"
 author = "林巧翎"
 favicon = ""
 #site_logo = "logo3.png"
