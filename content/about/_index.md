@@ -1,7 +1,7 @@
 ---
 title: "基本簡介"
 description: ""
-text_color : "bg-black"
+text_color : ""
 background_color_class : "bg-washed-red"
 menu:
   main:
