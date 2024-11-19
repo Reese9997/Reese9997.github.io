@@ -6,9 +6,14 @@ description: "“Always do your best. What you plant now, you will harvest later
 theme_version: '2.8.2'
 featured_image: 'thu.jpg'
 ---
-<p style="font-weight: bold; font-family: Arial, sans-serif;">
-  我是一個樂於嘗試與挑戰、勇於接受失敗的人。<br>
-  並期許自己，能成為一個會享受生活的人。
-</p>
+.normal-weight {
+  font-weight: normal;
+}
+
+.bold-weight {
+  font-weight: bold;
+}
+
+我是一個樂於嘗試與挑戰、勇於接受失敗的人。<br>並期許自己，能成為一個會享受生活的人。
 
 
