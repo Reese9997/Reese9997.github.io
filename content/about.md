@@ -1,7 +1,6 @@
 ---
 title: "About Me"
 description: ""
-[params]
 text_color: "near-black"
 background_color_class = "bg-washed-red"
 menu:
