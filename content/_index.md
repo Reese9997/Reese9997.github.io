@@ -7,9 +7,5 @@ description: "“Always do your best. What you plant now, you will harvest later
 cascade:
   featured_image: 'thu.jpg'
 ---
-<div style="text-align: center;">
-  <strong>我是一個樂於嘗試與挑戰、勇於接受失敗的人。</strong>
-  <br>
-  <strong>並期許自己，能成為一個會享受生活的人。</strong>
-</div>
+**我是一個樂於嘗試與挑戰、勇於接受失敗的人。<br>並期許自己，能成為一個會享受生活的人。**
 
