@@ -1,7 +1,8 @@
+[params]
+text_color = "black"
 ---
 title: "About Me"
 description: ""
-text_color: "near-black"
 background_color_class : "bg-washed-red"
 menu:
   main:
