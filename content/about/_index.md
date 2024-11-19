@@ -1,10 +1,11 @@
 ---
-title: "About you"
+title: "About me"
 description: ""
 text_color : "black"
 background_color_class : "bg-washed-red"
-menu:"About Me"
+menu:
   main:
+    name: "About me"  # 菜單顯示的名稱
     weight: 1
 ---
 {{< figure src="lin.jpg"  width="200" height="280">}}
