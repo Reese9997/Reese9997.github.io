@@ -1,9 +1,9 @@
 ---
-title: "About Me"
+title: "About you"
 description: ""
 text_color : "black"
 background_color_class : "bg-washed-red"
-menu:
+menu:"About Me"
   main:
     weight: 1
 ---
@@ -12,7 +12,7 @@ menu:
 ### **姓名:** 林巧翎 [Chiao-Ling (Reese), Lin]
 
 ### **學歷:**
-- 義守大學 / 財務金融管理學系 / 11106 畢業生
+-義守大學 / 財務金融管理學系 / 11106 畢業生
 - 東海大學 / 財務金融管理學系 / 碩士在校生
 - 東海大學 / 資訊管理學系 / 碩士在校生
 
