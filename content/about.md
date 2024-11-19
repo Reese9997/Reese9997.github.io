@@ -1,13 +1,13 @@
 ---
 title: "About Me"
 description: ""
+[params]
+text_color: "near-black"
+background_color_class = "bg-washed-red"
 menu:
   main:
     weight: 1
 ---
-[params]
-text_color: "near-black"
-background_color_class = "bg-washed-red"
 {{< figure src="/images/lin.jpg"  >}}
 
 **姓名:** 林巧翎 (Chiao-Ling (Reese), Lin)
