@@ -2,6 +2,7 @@ baseURL = 'https://reese9997.github.io/'
 languageCode = 'zh-tw'
 title = '東海大學'
 theme = 'ananke'
+site_logo = "logo.png"
 
 [params.ananke.social.share]
 networks = ["email", "facebook", "linkedin","instagram"]
