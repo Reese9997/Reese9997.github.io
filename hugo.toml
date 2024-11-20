@@ -12,7 +12,7 @@ networks = ["facebook","linkedin","instagram"]
 
 [params.ananke.social.facebook]
 username = "林巧翎"
-profilelink = "https://www.facebook.com/share/17dynABG4m/?mibextid=LQQJ4d"
+profilelink = "https://www.facebook.com/profile.php?id=100001328394686"
 
 [params.ananke.social.linkedin]
 username = "林巧翎"
