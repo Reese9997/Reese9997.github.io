@@ -2,7 +2,7 @@
 title: "基本簡介"
 description: ""
 text_color : ""
-background_color_class : "bg-washed-red"
+background_color_class : "bg-navy"
 menu:
   main:
     name: "About me"  # 菜單顯示的名稱
