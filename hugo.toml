@@ -11,15 +11,15 @@ networks = ["email", "facebook", "linkedin","instagram"]
 networks = ["facebook","linkedin","instagram"]
 
 [params.ananke.social.facebook]
-username = "林巧翎"
-profilelink = "https://www.facebook.com/profile.php?id=100001328394686"
+username = "Noel Wang"
+profilelink = "https://www.facebook.com/profile.php?id=100093370940138"
 
 [params.ananke.social.linkedin]
 username = "林巧翎"
 profilelink = "https://www.linkedin.com/in/stephanie-undefined-48b5b72b7/"
 
 [params.ananke.social.instagram]
-username = "cllin_1019"
+username = "stephanie._.0608"
 
 
 [params]
