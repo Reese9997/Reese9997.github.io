@@ -8,7 +8,7 @@ menu:
     name: "About me"  # 菜單顯示的名稱
     weight: 1
 ---
-{{< figure src="lin.jpg"  width="200" height="280">}}
+{{< figure src="swinging.png"  width="200" height="280">}}
 
 ### **姓名:** 林巧翎 [Chiao-Ling (Reese), Lin]
 
